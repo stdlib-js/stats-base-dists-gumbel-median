@@ -69,7 +69,7 @@ where `μ` is the location parameter and `β` is the scale parameter.
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-median@v0.2.2-esm/index.mjs';
 ```
 
 #### median( mu, beta )
@@ -134,7 +134,7 @@ y = median( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-median@v0.2.2-esm/index.mjs';
 
 var beta;
 var mu;
