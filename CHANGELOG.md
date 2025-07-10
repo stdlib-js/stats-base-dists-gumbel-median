@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c2fe10f`](https://github.com/stdlib-js/stdlib/commit/c2fe10f542196829e3c713a9b22977c48da055d1) - **bench:** fix require path _(by Athan Reines)_
 -   [`8fdf505`](https://github.com/stdlib-js/stdlib/commit/8fdf505023f88e68b94627083ba88faa32b8d52d) - **bench:** refactor random value generation _(by Athan Reines)_
 -   [`8fcada4`](https://github.com/stdlib-js/stdlib/commit/8fcada4b91016e83b9205b1183d9b206fc54ce32) - **feat:** add C implementation for `stats/base/dists/gumbel/median` [(#4152)](https://github.com/stdlib-js/stdlib/pull/4152) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
