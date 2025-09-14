@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-10)
+## Unreleased (2025-09-14)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`0f21a37`](https://github.com/stdlib-js/stdlib/commit/0f21a37f076bf26a2c6c7f0acf08e6f2d1be9004) - **docs:** replace manual `for` loop in examples [(#8076)](https://github.com/stdlib-js/stdlib/pull/8076) _(by Harsh)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`c2fe10f`](https://github.com/stdlib-js/stdlib/commit/c2fe10f542196829e3c713a9b22977c48da055d1) - **bench:** fix require path _(by Athan Reines)_
 -   [`8fdf505`](https://github.com/stdlib-js/stdlib/commit/8fdf505023f88e68b94627083ba88faa32b8d52d) - **bench:** refactor random value generation _(by Athan Reines)_
 -   [`8fcada4`](https://github.com/stdlib-js/stdlib/commit/8fcada4b91016e83b9205b1183d9b206fc54ce32) - **feat:** add C implementation for `stats/base/dists/gumbel/median` [(#4152)](https://github.com/stdlib-js/stdlib/pull/4152) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
@@ -50,9 +53,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
